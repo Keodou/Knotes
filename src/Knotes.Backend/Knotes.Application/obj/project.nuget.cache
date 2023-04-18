@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OoXQum54OFqn/zTa3SYMmGN9jPDYFG4tSqPjqIdsPI+6+LMpJbxuEk0xkZ1lcbiGpstgKx8ZP++Sncj6sF7OrA==",
+  "dgSpecHash": "gyVGFNP/HZhamKgS7EjDgOZBcRUrxzO0H9Q6dWgyw2WJ6uH9YxwWPY51MiVmTgJQStxbfYWg5YB+UbM2h9hkyQ==",
   "success": true,
   "projectFilePath": "D:\\Programming\\CSharp\\Knotes\\src\\Knotes.Backend\\Knotes.Application\\Knotes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\korob\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\korob\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\korob\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\korob\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\korob\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\korob\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
